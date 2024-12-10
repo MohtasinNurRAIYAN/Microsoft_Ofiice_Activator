@@ -10,7 +10,8 @@ Easiest &amp; Safest way to Activate MS Office along with Telemetry Blocking
 
 
 # Features & RePack/ReMade:
-● Based on MassGravel's Microsoft Stuffs Activator Script 
+● Based on MassGravel's Microsoft Stuffs Activator Script
+● Open-Source
 ● Supports all Microsoft Office versions from 2010-2024 🔥 
 ● OHook Activation - Permanently 🔥
 ● Works Offline 🔥
@@ -28,6 +29,6 @@ Easiest &amp; Safest way to Activate MS Office along with Telemetry Blocking
 ● Disable diagnostics and census data collection 🔥
 ● Disable automatic cloud configuration downloads 
 ● Disable PowerShell Telemetry/Data Collection 🔥
-● Very Little Size - 171 KB (1.7/10th of 1 MB) 🔥
+● Very Little Size - 171 KB only 🔥
 
 Special Thanks to PrivacySexy for Telemetry Blocking Script
