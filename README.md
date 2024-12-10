@@ -32,3 +32,7 @@ Easiest &amp; Safest way to Activate MS Office along with Telemetry Blocking
 ● Very Little Size - 171 KB only 🔥
 
 Special Thanks to PrivacySexy for Telemetry Blocking Script
+
+
+### Join my Telegram
+https://t.me/raiyanmodspc
